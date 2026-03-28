@@ -12,7 +12,7 @@
   <a href="http://entynetproject.simplesite.com/">
     <img src="https://img.shields.io/badge/entynetproject-Ivan%20Nikolsky-blue.svg">
   </a>
-  <a href="https://github.com/entynetproject/phonia/releases">
+  <a href="https://github.com/godxdar/phonia">
     <img src="https://img.shields.io/github/release/entynetproject/phonia.svg">
   </a>
   <a href="https://ru.m.wikipedia.org/wiki/Python">
